@@ -1,5 +1,7 @@
 ### Hi there 👋, Isabel Klint
 
+<https://isabelklint.github.io/github-profile-readme-generator/images/banner.png>
+
 I'm a field linguist living and working in Oaxaca, Mexico. I began a BS in Data Management and Data Analytics at WGU in 2020, and I'm currently studying web development with Shecodes.
 
 Skills: Excel/SQL/Python/R/Salesforce/Oracle/IT Operations Specialist/IT Project Management
