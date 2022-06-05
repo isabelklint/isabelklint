@@ -1,4 +1,4 @@
-### Hi there 👋, Isabel Klint
+### Hi there 👋,
 
 I'm a field linguist living and working in Oaxaca, Mexico. I began a BS in Data Management and Data Analytics at WGU in 2020, and I'm currently studying web development with Shecodes.
 
