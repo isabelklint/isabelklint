@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/isabelklint/isabelklint/main/some-banner.001.jpeg">
 
-I'm a field linguist living and working in Oaxaca, Mexico. I'm also a student at WGU majoring in Data Management and Data Analytics (BS expected 2023). I'm currently studying web development with Shecodes.
+I'm a field linguist living and working in Oaxaca, Mexico. I'm also a student at WGU majoring in Data Management and Data Analytics (BS expected 2023). I'm currently studying AI for low-resource languages with Omdena.
 
 Skills: Python/SQL/Excel, basic webdev, AI for low-resource languages
 
