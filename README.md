@@ -4,10 +4,10 @@
 
 I'm a field linguist living and working in Oaxaca, Mexico. I'm also a student at WGU majoring in Data Management and Data Analytics (BS expected 2023). I'm currently studying web development with Shecodes.
 
-Skills: Excel/SQL/Python/R/Salesforce/Oracle/IT Operations Specialist/IT Project Management
+Skills: Python/SQL/Excel, basic webdev, AI for low-resource languages
 
 - 🔭 I’m currently uploading my projects to GitHub. 
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning AI for low-resource languages
 - 📫 How to reach me: isabel.klint@gmail.com 
 - 😄 Pronouns: She/her 
 - ⚡ Fun fact: I was a deputy marriage commissioner in Las Vegas: I performed over 500 courthouse marriage ceremonies. 
